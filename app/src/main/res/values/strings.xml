@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">JpPro</string>
+
+    //article
+    <string name="article_kind">分类</string>
+    <string name="article_title">Java 面试题：说一下 ArrayDeque 和 LinkedList 的区别？</string>
+    <string name="article_author">彭旭锐</string>
+    <string name="article_top">置顶</string>
 </resources>
